@@ -1,0 +1,18 @@
+{
+  "Author": "NeoGriever",
+  "Name": "Shout Runner",
+  "Punchline": "Plan and run world-wide routes with visible progress.",
+  "Description": "Plan and run FFXIV travel routes across data centers, worlds and cities. Organize reusable presets and monitor progress, actions and Gil changes. Open with /sr; start with /sr run; stop with /sr stop.",
+  "InternalName": "ShoutRunner",
+  "AssemblyVersion": "3.1.0.0",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 15,
+  "TestingDalamudApiLevel": 15,
+  "Tags": [
+    "Automation",
+    "Macro",
+    "Teleport",
+    "Travel"
+  ],
+  "RepoUrl": "https://github.com/NeoGriever/ShoutRunner2"
+}
